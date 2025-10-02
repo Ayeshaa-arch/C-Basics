@@ -4,5 +4,6 @@
 int main() {
     
     printf("%f", 2.0 * 2);
+
         return 0;
 }
